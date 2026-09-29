@@ -1,2 +1,2 @@
 ## pedido 1 - User Story - Como cliente eu gostaria que o titulo alterasse a formatação, para melhor visualização das abas no site web, pois quando utilizo no celular as letras não ficam visiveis"
-### test story (-[] realizei o teste entrando no site pelo celular, e verifiquei que o problema foi resolvido com o novo código, as letras estão legiveis e visiveis, também como foi alterado o layout para mobile
+### test story (-[] realizei o teste entrando no site pelo celular, e verifiquei que o problema foi resolvido com o novo código, as letras estão legiveis e visiveis, também como foi alterado o layout para mobile)
