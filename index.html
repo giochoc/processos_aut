@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>promocoes de natal</title>
+  <title>PROMOÇÕES NATAL</title>
   <style>
     body {
       margin: 0;
@@ -11,43 +11,72 @@
       display: grid;
       place-items: center;
       font-family: system-ui, "Segoe UI", Roboto, sans-serif;
-      background: #1e9e5a;
+      /* Cor de fundo vermelho de Natal */
+      background: #B3000C;
       padding: 1rem;
     }
     .cartao {
       background: #fff;
       border-radius: 20px;
+      /* Borda verde imitando árvore de Natal */
+      border: 5px solid #0A5C36;
       padding: 2.5rem;
       max-width: 520px;
       width: 100%;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, .25);
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
       text-align: center;
       color: #1d1d1f;
     }
-    .emoji { font-size: 4rem; }
-    h1 { margin: .5rem 0; color: #1e9e5a; }
+    .emoji {
+      font-size: 4rem;
+    }
+    h1 {
+      margin: .5rem 0;
+      color: #B3000C;
+      text-transform: uppercase;
+    }
     .versao {
       margin-top: 1.5rem;
       padding: 1rem;
       border-radius: 12px;
-      background: #ff0000;
+      background: #f0fdf4; /* Fundo verde bem clarinho */
+      border-left: 5px solid #0A5C36;
       text-align: left;
       line-height: 1.8;
     }
-    code { background: #ff0000; padding: 2px 6px; border-radius: 6px; }
-    footer { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid #e5e5ea; color: #6e6e73; font-size: .85rem; }
+    .versao h1 {
+      font-size: 1.2rem;
+      display: inline;
+      margin: 0;
+      color: #0A5C36;
+    }
+    code {
+      background: #e5e5ea;
+      padding: 2px 6px;
+      border-radius: 6px;
+      color: #B3000C;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 1.5rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5ea;
+      color: #6e6e73;
+      font-size: .85rem;
+    }
   </style>
 </head>
 <body>
   <main class="cartao">
-    <div class="emoji">🎅</div>
-    <h1>promoções de natal</h1>
-    <p>O erro foi corrigido e o robô publicou de novo.</p>
-
+    <div class="emoji">🎅🎁</div>
+    <h1>PROMOÇÕES NATAL</h1>
+    <p>Aproveite as nossas ofertas exclusivas de fim de ano!</p>
+    <p>Lembrete: "Não deixe os presentes para a última hora!"</p>  
+   
     <div class="versao">
-      🤖 <strong>Publicado pelo robô em:</strong> __DATA__<br>
+      🎄 <strong>Publicado pelo robô Noel em:</strong> __DATA__<br>
       🔖 <strong>Commit:</strong> <code>__COMMIT__</code><br>
-      👤 <strong>Enviado por:</strong> __AUTOR__
+      👤 <strong>Enviado por:</strong> <h1><strong>__AUTOR__</strong></h1>
     </div>
 
     <footer>
