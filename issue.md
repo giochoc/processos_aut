@@ -2,3 +2,8 @@
 ### test story (-[] alterar layout)
 ### ops story - após a subida para produção, foi identificado um erro, onde mesmo visiveis, os links de direcionamento estavam encaminhando errado para o ambiente de homologação, iremos resolver alterando esse link para o envio correto do site de produção.
 ### feedback do cliente - após subida correta para produção, o layout do site ficou melhor e as letras mais visiveis
+
+
+### user story - gostaria de alterar o titulo do site para Promoções Natal
+### user story - como estammos em clima de natal, altere o emoji para uma arvore de natal
+### user story - para promoçoes e clima natalino no final do ano, altere o fundo para vermelho 
