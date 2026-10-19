@@ -3,7 +3,7 @@
 ### user story - como estammos em clima de natal, altere o emoji para uma arvore de natal
 ### user story - para promoçoes e clima natalino no final do ano, altere o fundo para vermelho 
 
-## versão 5 - fazendo
+## versão 5 - concluido
 ### user story - mudança de emoji (presente) para um outro emoji (arvore de natal)
 
 
